@@ -1,14 +1,25 @@
-background: gold;
-
-.parent
-{
-border: 1px solid black;
-height: 200px;
+img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
-.child
-{
-height: 100px;
-display: inline-block;
-background: red;
-width: 10%;
+h1 {font-size: 3.0em}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+p {color:black;}
+
+.about {
+ display:inline-block;
 }
