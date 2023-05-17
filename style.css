@@ -20,6 +20,18 @@ p {
 }
 p {color:black;}
 
+
+
+body {
+
+background-image: url(https://webmg.ru/wp-content/uploads/2022/11/i-34-21.jpeg);
+background-position: left bottom;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
 .about {
  display:inline-block;
 }
