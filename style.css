@@ -4,7 +4,7 @@ img {
   margin-right: 150px;
   margin-left: 150px;
 }
-h1 {font-size: 3.0em}
+h1 {font-size: 4.0em}
 
 h1 {
   margin-top: 10px;
@@ -12,6 +12,8 @@ h1 {
   margin-right: 150px;
   margin-left: 150px;
 }
+
+P {font-size: 1.5em}
 p {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -34,4 +36,24 @@ background-attachment: fixed;
 
 .about {
  display:inline-block;
+}
+.im {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 100px;
+  margin-left: 15px;
+}
+
+.mg {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 150px;
+  margin-left: 15px;
+}
+
+.i {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 1px;
+  margin-left: 1px;
 }
